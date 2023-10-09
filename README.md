@@ -7,3 +7,16 @@
 - [medium](https://medium.com/)
 - [코드너리](https://www.codenary.co.kr/architecture/list)
 - [GeekNews](https://news.hada.io/)
+
+## Java
+- [Guide to ListUtils in Java](https://medium.com/javarevisited/guide-to-listutils-in-java-acf17f30e140)
+- 
+
+## Spring Boot
+
+## DB (RDB, NOSQL)
+
+## Middleware (RabbitMQ, Kafka, etc..)
+
+## 기타 
+- [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
