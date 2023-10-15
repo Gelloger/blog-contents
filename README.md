@@ -25,5 +25,6 @@
 - [코드 재사용성을 결정하기 전 고려해야 할 것들](https://yozm.wishket.com/magazine/detail/1930/)
 - [Circuit Breaker](https://sungjk.github.io/2022/11/12/circuit-breaker.html)
 - [Feature Toggles (aka Feature Flags)](https://sungjk.github.io/2022/10/15/feature-toggles.html)
+- [flatMap만 사용하기는 그만! Reactor 오퍼레이터 파헤치기](https://d2.naver.com/helloworld/3158221)
 
 
