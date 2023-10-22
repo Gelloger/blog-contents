@@ -27,7 +27,7 @@
 - [Backend side architecture evolution (N-layered, DDD, Hexagon, Onion, Clean Architecture)](https://medium.com/@iamprovidence/backend-side-architecture-evolution-n-layered-ddd-hexagon-onion-clean-architecture-643d72444ce4)
 - [4+2 Layered Architecture](https://medium.com/@nogueira.cc/4-2-layered-architecture-313329082989)
 - [A brief history of application architecture (of the 21st century)](https://dev.to/ib1/a-brief-history-of-application-architecture-of-the-21st-century-23d4)
-- [Hexagonal architecture]([https://alistair.cockburn.us/hexagonal-architecture/](https://hexagonalarchitecture.org/))
+- [Hexagonal architecture](https://hexagonalarchitecture.org/)
 
 
 ## 기타 
@@ -35,4 +35,4 @@
 - [코드 재사용성을 결정하기 전 고려해야 할 것들](https://yozm.wishket.com/magazine/detail/1930/)
 - [Circuit Breaker](https://sungjk.github.io/2022/11/12/circuit-breaker.html)
 - [Feature Toggles (aka Feature Flags)](https://sungjk.github.io/2022/10/15/feature-toggles.html)
-- [flatMap만 사용하기는 그만! Reactor 오퍼레이터 파헤치기]        (https://d2.naver.com/helloworld/3158221)
+- [flatMap만 사용하기는 그만! Reactor 오퍼레이터 파헤치기](https://d2.naver.com/helloworld/3158221)
