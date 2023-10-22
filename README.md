@@ -28,7 +28,7 @@
 - [4+2 Layered Architecture](https://medium.com/@nogueira.cc/4-2-layered-architecture-313329082989)
 - [A brief history of application architecture (of the 21st century)](https://dev.to/ib1/a-brief-history-of-application-architecture-of-the-21st-century-23d4)
 - [Hexagonal architecture](https://hexagonalarchitecture.org/)
-
+- [software-architecture-patterns](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html)
 
 ## 기타 
 - [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
