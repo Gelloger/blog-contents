@@ -7,12 +7,14 @@
 - [medium](https://medium.com/)
 - [코드너리](https://www.codenary.co.kr/architecture/list)
 - [GeekNews](https://news.hada.io/)
+- [The Clean Code Blog](https://blog.cleancoder.com/uncle-bob/2021/03/06/ifElseSwitch.html)
 
 ## Java
 - [System Design: Dependency Inversion Principle](https://www.baeldung.com/cs/dip)
 - [Why The Dependency Inversion Principle Is Worth Using](https://dev.to/rhuzaifa/why-the-dependency-inversion-principle-is-worth-using-opj)
 - [Guide to ListUtils in Java](https://medium.com/javarevisited/guide-to-listutils-in-java-acf17f30e140)
 - [Java의 마커 인터페이스](https://kasunprageethdissanayake.medium.com/marker-interfaces-in-java-aeed063596cc)
+- [if-else-switch](https://blog.cleancoder.com/uncle-bob/2021/03/06/ifElseSwitch.html)
 
 
 ## Spring Boot
@@ -47,3 +49,4 @@
 - [주문서비스 ShardingSphere-Proxy 도입기](https://techblog.yogiyo.co.kr/%EC%A3%BC%EB%AC%B8%EC%84%9C%EB%B9%84%EC%8A%A4-shardingsphere-proxy-%EB%8F%84%EC%9E%85%EA%B8%B0-46d83084586b)
 - [Goodbye Microservices: From 100s of problem children to 1 superstar](https://segment.com/blog/goodbye-microservices/)
 - [내가 언제까지 IT업계에서 일할 수 있을까?](https://tech.kakaopay.com/post/professional-engineer-information-management-james/)
+- [Becoming a good engineer is about collecting experience.](https://addyosmani.com/blog/collect-experience/)
