@@ -50,3 +50,5 @@
 - [Goodbye Microservices: From 100s of problem children to 1 superstar](https://segment.com/blog/goodbye-microservices/)
 - [내가 언제까지 IT업계에서 일할 수 있을까?](https://tech.kakaopay.com/post/professional-engineer-information-management-james/)
 - [Becoming a good engineer is about collecting experience.](https://addyosmani.com/blog/collect-experience/)
+- [why-we-failed-implementing-cqrs-in-microservice-architecture](https://faun.pub/why-we-failed-implementing-cqrs-in-microservice-architecture-5c39a2d0b2dd)
+- [[MSA 패턴] SAGA, Transactional Outbox 패턴 활용하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=165445&boardType=techBlog&searchData=&page=&subIndex=%EC%B5%9C%EC%8B%A0+%EA%B8%B0%EC%88%A0+%EB%B8%94%EB%A1%9C%EA%B7%B8)
