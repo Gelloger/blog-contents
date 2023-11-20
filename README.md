@@ -41,6 +41,7 @@
 
 
 ## 기타 
+- [Using Maven’s Bill of Materials (BOM)](https://reflectoring.io/maven-bom/)
 - [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
 - [코드 재사용성을 결정하기 전 고려해야 할 것들](https://yozm.wishket.com/magazine/detail/1930/)
 - [Circuit Breaker](https://sungjk.github.io/2022/11/12/circuit-breaker.html)
@@ -52,3 +53,4 @@
 - [Becoming a good engineer is about collecting experience.](https://addyosmani.com/blog/collect-experience/)
 - [why-we-failed-implementing-cqrs-in-microservice-architecture](https://faun.pub/why-we-failed-implementing-cqrs-in-microservice-architecture-5c39a2d0b2dd)
 - [[MSA 패턴] SAGA, Transactional Outbox 패턴 활용하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=165445&boardType=techBlog&searchData=&page=&subIndex=%EC%B5%9C%EC%8B%A0+%EA%B8%B0%EC%88%A0+%EB%B8%94%EB%A1%9C%EA%B7%B8)
+- [Feature Flag - 안전하고 신뢰할 수 있는 배포로 나아가는 열쇠](https://11st-tech.github.io/2023/11/07/openfeature/)
