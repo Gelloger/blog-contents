@@ -23,6 +23,9 @@
 - [An Introductory Guide to Spring’s @AliasFor Annotation](https://medium.com/@AlexanderObregon/an-introductory-guide-to-springs-aliasfor-annotation-fe3bd1fc8500)
   
 ## DB (RDB, NOSQL)
+- [게임 서버 시스템을 위한 HikariCP 옵션 및 권장 설정](https://netmarble.engineering/hikaricp-options-optimization-for-game-server/)
+- [게임 서버 시스템을 위한 JDBC와 Timeout 이해하기](https://netmarble.engineering/jdbc-timeout-for-game-server/)
+- [JDBC와 DataSource 이해하기](https://tecoble.techcourse.co.kr/post/2023-06-28-JDBC-DataSource/)
 
 ## Middleware (RabbitMQ, Kafka, etc..)
 
