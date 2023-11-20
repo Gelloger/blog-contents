@@ -21,6 +21,8 @@
 - [Log all requests and responses of REST API GET and POST endpoints](https://medium.com/javarevisited/log-all-requests-and-responses-of-rest-api-get-and-post-endpoints-b6d91c6e56b1)
 - [Create Your Own Custom Annotation In Spring Boot](https://medium.com/thefreshwrites/create-your-own-custom-annotation-in-spring-boot-be6ac6452c88)
 - [An Introductory Guide to Spring’s @AliasFor Annotation](https://medium.com/@AlexanderObregon/an-introductory-guide-to-springs-aliasfor-annotation-fe3bd1fc8500)
+- [[배민스토어] 우리만의 자유로운 WebFlux Practices](https://techblog.woowahan.com/12903/)
+- 
   
 ## DB (RDB, NOSQL)
 - [게임 서버 시스템을 위한 HikariCP 옵션 및 권장 설정](https://netmarble.engineering/hikaricp-options-optimization-for-game-server/)
@@ -38,6 +40,7 @@
 - [https://www.infoq.com/articles/monolith-versus-microservices/](https://www.infoq.com/articles/monolith-versus-microservices/)
 - [Clean Architecture : Part 1 — Database vs Domain](https://justwrite99.medium.com/%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%8C%8C%ED%8A%B81-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-vs-%EB%8F%84%EB%A9%94%EC%9D%B8-236c7008ac83)
 - [Clean Architecture : Part 2 — The Clean Architecture](https://justwrite99.medium.com/clean-architecture-part-2-the-clean-architecture-3e2666cdce83)
+- [Spring Boot Kotlin Multi Module로 구성해보는 헥사고날 아키텍처](https://techblog.woowahan.com/12720/)
 
 ## Test
 - [효율적인 테스트를 위한 Stub 객체 사용법](https://medium.com/daangn/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-stub-%EA%B0%9D%EC%B2%B4-%ED%99%9C%EC%9A%A9%EB%B2%95-5c52a447dfb7)
@@ -57,3 +60,4 @@
 - [why-we-failed-implementing-cqrs-in-microservice-architecture](https://faun.pub/why-we-failed-implementing-cqrs-in-microservice-architecture-5c39a2d0b2dd)
 - [[MSA 패턴] SAGA, Transactional Outbox 패턴 활용하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=165445&boardType=techBlog&searchData=&page=&subIndex=%EC%B5%9C%EC%8B%A0+%EA%B8%B0%EC%88%A0+%EB%B8%94%EB%A1%9C%EA%B7%B8)
 - [Feature Flag - 안전하고 신뢰할 수 있는 배포로 나아가는 열쇠](https://11st-tech.github.io/2023/11/07/openfeature/)
+- [11번가 주니어 개발자의 첫 MSA 설계 및 개발기](https://11st-tech.github.io/2022/05/16/junior-developer-first-msa-design-and-development/)
