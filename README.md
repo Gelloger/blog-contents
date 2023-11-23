@@ -15,14 +15,18 @@
 - [Guide to ListUtils in Java](https://medium.com/javarevisited/guide-to-listutils-in-java-acf17f30e140)
 - [Java의 마커 인터페이스](https://kasunprageethdissanayake.medium.com/marker-interfaces-in-java-aeed063596cc)
 - [if-else-switch](https://blog.cleancoder.com/uncle-bob/2021/03/06/ifElseSwitch.html)
-
+## Kotlin
+- [코루틴(Coroutine)에 대하여](https://ebay-korea.tistory.com/82)
+- [Kotlin에서 리스트 추출하기 : subList, slice, take, drop](https://ebay-korea.tistory.com/96)
 
 ## Spring Boot
 - [Log all requests and responses of REST API GET and POST endpoints](https://medium.com/javarevisited/log-all-requests-and-responses-of-rest-api-get-and-post-endpoints-b6d91c6e56b1)
 - [Create Your Own Custom Annotation In Spring Boot](https://medium.com/thefreshwrites/create-your-own-custom-annotation-in-spring-boot-be6ac6452c88)
 - [An Introductory Guide to Spring’s @AliasFor Annotation](https://medium.com/@AlexanderObregon/an-introductory-guide-to-springs-aliasfor-annotation-fe3bd1fc8500)
 - [[배민스토어] 우리만의 자유로운 WebFlux Practices](https://techblog.woowahan.com/12903/)
-- 
+- [Feign 코드 분석과 서버 성능 개선](https://toss.tech/article/engineering-note-3)
+- [How to Replace Quartz with Shedlock](https://medium.com/tav-technologies/how-to-replace-quartz-with-shedlock-ae7c16951cf9)
+- [Virtual Threads in Spring Boot](https://blog.devgenius.io/virtual-threads-in-spring-boot-f720dcdf018c)
   
 ## DB (RDB, NOSQL)
 - [게임 서버 시스템을 위한 HikariCP 옵션 및 권장 설정](https://netmarble.engineering/hikaricp-options-optimization-for-game-server/)
@@ -61,3 +65,4 @@
 - [[MSA 패턴] SAGA, Transactional Outbox 패턴 활용하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=165445&boardType=techBlog&searchData=&page=&subIndex=%EC%B5%9C%EC%8B%A0+%EA%B8%B0%EC%88%A0+%EB%B8%94%EB%A1%9C%EA%B7%B8)
 - [Feature Flag - 안전하고 신뢰할 수 있는 배포로 나아가는 열쇠](https://11st-tech.github.io/2023/11/07/openfeature/)
 - [11번가 주니어 개발자의 첫 MSA 설계 및 개발기](https://11st-tech.github.io/2022/05/16/junior-developer-first-msa-design-and-development/)
+- [API 메시업과 Fault Tolerance 문제 해결 전략](https://ebay-korea.tistory.com/86)
