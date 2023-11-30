@@ -15,6 +15,7 @@
 - [Guide to ListUtils in Java](https://medium.com/javarevisited/guide-to-listutils-in-java-acf17f30e140)
 - [Java의 마커 인터페이스](https://kasunprageethdissanayake.medium.com/marker-interfaces-in-java-aeed063596cc)
 - [if-else-switch](https://blog.cleancoder.com/uncle-bob/2021/03/06/ifElseSwitch.html)
+- [인자가 많은 메서드는 왜 나쁠까?](https://toss.tech/article/engineering-note-4)
 ## Kotlin
 - [코루틴(Coroutine)에 대하여](https://ebay-korea.tistory.com/82)
 - [Kotlin에서 리스트 추출하기 : subList, slice, take, drop](https://ebay-korea.tistory.com/96)
@@ -67,3 +68,6 @@
 - [Feature Flag - 안전하고 신뢰할 수 있는 배포로 나아가는 열쇠](https://11st-tech.github.io/2023/11/07/openfeature/)
 - [11번가 주니어 개발자의 첫 MSA 설계 및 개발기](https://11st-tech.github.io/2022/05/16/junior-developer-first-msa-design-and-development/)
 - [API 메시업과 Fault Tolerance 문제 해결 전략](https://ebay-korea.tistory.com/86)
+- [데이터가 없을 때 200인가 404인가?](https://techblog.yogiyo.co.kr/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EC%97%86%EC%9D%84-%EB%95%8C-200%EC%9D%B8%EA%B0%80-404%EC%9D%B8%EA%B0%80-f1c8c39ca9df)
+- [빠르게 학습하는 개발자가 되는 방법](https://yozm.wishket.com/magazine/detail/2334/)
+- [A Ride Through Optimising Legacy Spring Boot Services For High Throughput](https://medium.com/idealo-tech-blog/a-ride-through-optimising-legacy-spring-boot-services-for-high-throughput-73689aaa7888)
