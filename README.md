@@ -71,3 +71,5 @@
 - [데이터가 없을 때 200인가 404인가?](https://techblog.yogiyo.co.kr/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EC%97%86%EC%9D%84-%EB%95%8C-200%EC%9D%B8%EA%B0%80-404%EC%9D%B8%EA%B0%80-f1c8c39ca9df)
 - [빠르게 학습하는 개발자가 되는 방법](https://yozm.wishket.com/magazine/detail/2334/)
 - [A Ride Through Optimising Legacy Spring Boot Services For High Throughput](https://medium.com/idealo-tech-blog/a-ride-through-optimising-legacy-spring-boot-services-for-high-throughput-73689aaa7888)
+- [The evolving landscape of API protocols in 2023](https://blog.postman.com/api-protocols-in-2023/)
+- [지속 가능한 소프트웨어 설계 패턴: 포트와 어댑터 아키텍처 적용하기](https://engineering.linecorp.com/ko/blog/port-and-adapter-architecture)
