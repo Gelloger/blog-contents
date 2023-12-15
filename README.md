@@ -33,6 +33,8 @@
 - [게임 서버 시스템을 위한 HikariCP 옵션 및 권장 설정](https://netmarble.engineering/hikaricp-options-optimization-for-game-server/)
 - [게임 서버 시스템을 위한 JDBC와 Timeout 이해하기](https://netmarble.engineering/jdbc-timeout-for-game-server/)
 - [JDBC와 DataSource 이해하기](https://tecoble.techcourse.co.kr/post/2023-06-28-JDBC-DataSource/)
+- [How to Deal with HikariCP Connection Leaks. Part 1.](https://medium.com/@eremeykin/how-to-deal-with-hikaricp-connection-leaks-part-1-1eddc135b464)
+- [How to Deal with HikariCP Connection Leaks. Part 2.](https://medium.com/@eremeykin/how-to-deal-with-hikaricp-connection-leaks-part-2-847a9629627f)
 
 ## Middleware (RabbitMQ, Kafka, etc..)
 
@@ -46,6 +48,7 @@
 - [Clean Architecture : Part 1 — Database vs Domain](https://justwrite99.medium.com/%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%8C%8C%ED%8A%B81-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-vs-%EB%8F%84%EB%A9%94%EC%9D%B8-236c7008ac83)
 - [Clean Architecture : Part 2 — The Clean Architecture](https://justwrite99.medium.com/clean-architecture-part-2-the-clean-architecture-3e2666cdce83)
 - [Spring Boot Kotlin Multi Module로 구성해보는 헥사고날 아키텍처](https://techblog.woowahan.com/12720/)
+- [[MSA 패턴] CQRS와 Materialized View를 활용해서 조회성능 확보하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=165557&boardType=techBlog&ref=codenary)
 
 ## Test
 - [효율적인 테스트를 위한 Stub 객체 사용법](https://medium.com/daangn/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-stub-%EA%B0%9D%EC%B2%B4-%ED%99%9C%EC%9A%A9%EB%B2%95-5c52a447dfb7)
@@ -73,3 +76,4 @@
 - [A Ride Through Optimising Legacy Spring Boot Services For High Throughput](https://medium.com/idealo-tech-blog/a-ride-through-optimising-legacy-spring-boot-services-for-high-throughput-73689aaa7888)
 - [The evolving landscape of API protocols in 2023](https://blog.postman.com/api-protocols-in-2023/)
 - [지속 가능한 소프트웨어 설계 패턴: 포트와 어댑터 아키텍처 적용하기](https://engineering.linecorp.com/ko/blog/port-and-adapter-architecture)
+- [NAVER Glace 신입 적응기: UML을 활용한 코드 리팩토링 및 코드 리뷰](https://medium.com/naver-place-dev/naver-glace-%EC%8B%A0%EC%9E%85-%EC%A0%81%EC%9D%91%EA%B8%B0-uml%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%BD%94%EB%93%9C-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EB%B0%8F-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-3dfc63197768)
