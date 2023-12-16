@@ -35,6 +35,7 @@
 - [JDBC와 DataSource 이해하기](https://tecoble.techcourse.co.kr/post/2023-06-28-JDBC-DataSource/)
 - [How to Deal with HikariCP Connection Leaks. Part 1.](https://medium.com/@eremeykin/how-to-deal-with-hikaricp-connection-leaks-part-1-1eddc135b464)
 - [How to Deal with HikariCP Connection Leaks. Part 2.](https://medium.com/@eremeykin/how-to-deal-with-hikaricp-connection-leaks-part-2-847a9629627f)
+- [김춘배와 알아보는 @Transactional 이모저모 1 - 테스트코드와 @Transactional](https://velog.io/@backfox/%EA%B9%80%EC%B6%98%EB%B0%B0%EC%99%80-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-Transactional-%EC%9D%B4%EB%AA%A8%EC%A0%80%EB%AA%A8-1-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C)
 
 ## Middleware (RabbitMQ, Kafka, etc..)
 
