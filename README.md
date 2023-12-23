@@ -39,6 +39,7 @@
 - [김춘배와 알아보는 @Transactional 이모저모 1 - 테스트코드와 @Transactional](https://velog.io/@backfox/%EA%B9%80%EC%B6%98%EB%B0%B0%EC%99%80-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-Transactional-%EC%9D%B4%EB%AA%A8%EC%A0%80%EB%AA%A8-1-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C)
 - [BULK 처리 Write에 집중해서 개선해보기](https://helloworld.kurly.com/blog/bulk-performance-tuning/)
 - [MYSQL 인덱스 튜닝](https://medium.com/zigbang/mysql-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%ED%8A%9C%EB%8B%9D-18e183e9246d)
+- [MySQL에서 B-Tree 인덱스를 통해 데이터를 읽어오는 방법 (인덱스 스캔)](https://hudi.blog/mysql-index-scan/)
 
 ## Middleware (RabbitMQ, Kafka, etc..)
 
@@ -81,3 +82,10 @@
 - [The evolving landscape of API protocols in 2023](https://blog.postman.com/api-protocols-in-2023/)
 - [지속 가능한 소프트웨어 설계 패턴: 포트와 어댑터 아키텍처 적용하기](https://engineering.linecorp.com/ko/blog/port-and-adapter-architecture)
 - [NAVER Glace 신입 적응기: UML을 활용한 코드 리팩토링 및 코드 리뷰](https://medium.com/naver-place-dev/naver-glace-%EC%8B%A0%EC%9E%85-%EC%A0%81%EC%9D%91%EA%B8%B0-uml%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%BD%94%EB%93%9C-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EB%B0%8F-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-3dfc63197768)
+- [성공/실패를 단언할 수 없는 네트워크 에러 안전하게 다루기](https://hudi.blog/safely-handling-network-errors/)
+
+## 컨퍼런스 
+- [JDK 21의 신기능 Virtual Thread 알아보기 (안정수 James)](https://www.youtube.com/watch?v=vQP6Rs-ywlQ)
+- [코프링 프로젝트 투입 일주일 전: 주니어 개발자의 코틀린 도입 이야기 | 인프콘2023](https://www.youtube.com/watch?v=xuMoald9MPQ)
+- [우리는 이렇게 모듈을 나눴어요: 멀티 모듈을 설계하는 또 다른 관점 | 인프콘2023](https://www.youtube.com/watch?v=uvG-amw2u2s)
+- [스프링과 함께 더 나은 개발자 되기 | 인프콘2023](https://www.youtube.com/watch?v=iDkz0YH_EG4)
