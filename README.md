@@ -16,6 +16,7 @@
 - [Java의 마커 인터페이스](https://kasunprageethdissanayake.medium.com/marker-interfaces-in-java-aeed063596cc)
 - [if-else-switch](https://blog.cleancoder.com/uncle-bob/2021/03/06/ifElseSwitch.html)
 - [인자가 많은 메서드는 왜 나쁠까?](https://toss.tech/article/engineering-note-4)
+- [JAVA8을 통해 알아보는 람다 표현식](https://devinn.dev/blog/detail/372)
 ## Kotlin
 - [코루틴(Coroutine)에 대하여](https://ebay-korea.tistory.com/82)
 - [Kotlin에서 리스트 추출하기 : subList, slice, take, drop](https://ebay-korea.tistory.com/96)
