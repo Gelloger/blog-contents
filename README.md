@@ -17,6 +17,7 @@
 - [if-else-switch](https://blog.cleancoder.com/uncle-bob/2021/03/06/ifElseSwitch.html)
 - [인자가 많은 메서드는 왜 나쁠까?](https://toss.tech/article/engineering-note-4)
 - [JAVA8을 통해 알아보는 람다 표현식](https://devinn.dev/blog/detail/372)
+
 ## Kotlin
 - [코루틴(Coroutine)에 대하여](https://ebay-korea.tistory.com/82)
 - [Kotlin에서 리스트 추출하기 : subList, slice, take, drop](https://ebay-korea.tistory.com/96)
@@ -29,6 +30,8 @@
 - [Feign 코드 분석과 서버 성능 개선](https://toss.tech/article/engineering-note-3)
 - [How to Replace Quartz with Shedlock](https://medium.com/tav-technologies/how-to-replace-quartz-with-shedlock-ae7c16951cf9)
 - [Virtual Threads in Spring Boot](https://blog.devgenius.io/virtual-threads-in-spring-boot-f720dcdf018c)
+- [실전! Spring Boot 3 마이그레이션](https://techblog.lycorp.co.jp/ko/how-to-migrate-to-spring-boot-3)
+- [Spring WebClient에서 새어나가는 메모리 잡기](https://hyperconnect.github.io/2022/10/07/troubleshoot-webclient-oom.html)
   
 ## DB (RDB, NOSQL)
 - [게임 서버 시스템을 위한 HikariCP 옵션 및 권장 설정](https://netmarble.engineering/hikaricp-options-optimization-for-game-server/)
@@ -54,6 +57,7 @@
 - [Clean Architecture : Part 2 — The Clean Architecture](https://justwrite99.medium.com/clean-architecture-part-2-the-clean-architecture-3e2666cdce83)
 - [Spring Boot Kotlin Multi Module로 구성해보는 헥사고날 아키텍처](https://techblog.woowahan.com/12720/)
 - [[MSA 패턴] CQRS와 Materialized View를 활용해서 조회성능 확보하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=165557&boardType=techBlog&ref=codenary)
+- [https://docs.google.com/spreadsheets/d/1vjnjAII_8TZBv2XhFHra7kEQzQpOHSZpFIWDjynYYf0/edit?pli=1#gid=0](https://docs.google.com/spreadsheets/d/1vjnjAII_8TZBv2XhFHra7kEQzQpOHSZpFIWDjynYYf0/edit?pli=1#gid=0)
 
 ## Test
 - [효율적인 테스트를 위한 Stub 객체 사용법](https://medium.com/daangn/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-stub-%EA%B0%9D%EC%B2%B4-%ED%99%9C%EC%9A%A9%EB%B2%95-5c52a447dfb7)
@@ -83,6 +87,7 @@
 - [지속 가능한 소프트웨어 설계 패턴: 포트와 어댑터 아키텍처 적용하기](https://engineering.linecorp.com/ko/blog/port-and-adapter-architecture)
 - [NAVER Glace 신입 적응기: UML을 활용한 코드 리팩토링 및 코드 리뷰](https://medium.com/naver-place-dev/naver-glace-%EC%8B%A0%EC%9E%85-%EC%A0%81%EC%9D%91%EA%B8%B0-uml%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%BD%94%EB%93%9C-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EB%B0%8F-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-3dfc63197768)
 - [성공/실패를 단언할 수 없는 네트워크 에러 안전하게 다루기](https://hudi.blog/safely-handling-network-errors/)
+- [하쿠나 입장 API 개선하기 - 괴물 API 리팩토링과 성능개선하기](https://hyperconnect.github.io/2022/03/14/develop-liveroom-entrance-on-hakuna.html)
 
 ## 컨퍼런스 
 - [JDK 21의 신기능 Virtual Thread 알아보기 (안정수 James)](https://www.youtube.com/watch?v=vQP6Rs-ywlQ)
