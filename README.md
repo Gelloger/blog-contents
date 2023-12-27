@@ -94,3 +94,4 @@
 - [코프링 프로젝트 투입 일주일 전: 주니어 개발자의 코틀린 도입 이야기 | 인프콘2023](https://www.youtube.com/watch?v=xuMoald9MPQ)
 - [우리는 이렇게 모듈을 나눴어요: 멀티 모듈을 설계하는 또 다른 관점 | 인프콘2023](https://www.youtube.com/watch?v=uvG-amw2u2s)
 - [스프링과 함께 더 나은 개발자 되기 | 인프콘2023](https://www.youtube.com/watch?v=iDkz0YH_EG4)
+- [대규모 트랜잭션을 처리하는 배민 주문시스템 규모에 따른 진화](https://www.youtube.com/watch?v=704qQs6KoUk&t=49s)
