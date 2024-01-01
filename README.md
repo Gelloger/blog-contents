@@ -17,6 +17,7 @@
 - [if-else-switch](https://blog.cleancoder.com/uncle-bob/2021/03/06/ifElseSwitch.html)
 - [인자가 많은 메서드는 왜 나쁠까?](https://toss.tech/article/engineering-note-4)
 - [JAVA8을 통해 알아보는 람다 표현식](https://devinn.dev/blog/detail/372)
+- [Java의 미래, Virtual Thread](https://techblog.woowahan.com/15398/)
 
 ## Kotlin
 - [코루틴(Coroutine)에 대하여](https://ebay-korea.tistory.com/82)
@@ -88,6 +89,9 @@
 - [NAVER Glace 신입 적응기: UML을 활용한 코드 리팩토링 및 코드 리뷰](https://medium.com/naver-place-dev/naver-glace-%EC%8B%A0%EC%9E%85-%EC%A0%81%EC%9D%91%EA%B8%B0-uml%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%BD%94%EB%93%9C-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EB%B0%8F-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-3dfc63197768)
 - [성공/실패를 단언할 수 없는 네트워크 에러 안전하게 다루기](https://hudi.blog/safely-handling-network-errors/)
 - [하쿠나 입장 API 개선하기 - 괴물 API 리팩토링과 성능개선하기](https://hyperconnect.github.io/2022/03/14/develop-liveroom-entrance-on-hakuna.html)
+- [Mockists Are Dead. Long Live Classicists.](https://www.thoughtworks.com/insights/blog/mockists-are-dead-long-live-classicists)
+- [UnitTest](https://martinfowler.com/bliki/UnitTest.html)
+- [https://codeconfessions.substack.com/p/gpu-computing](What Every Developer Should Know About GPU Computing)
 
 ## 컨퍼런스 
 - [JDK 21의 신기능 Virtual Thread 알아보기 (안정수 James)](https://www.youtube.com/watch?v=vQP6Rs-ywlQ)
