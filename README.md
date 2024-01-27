@@ -92,6 +92,7 @@
 - [Mockists Are Dead. Long Live Classicists.](https://www.thoughtworks.com/insights/blog/mockists-are-dead-long-live-classicists)
 - [UnitTest](https://martinfowler.com/bliki/UnitTest.html)
 - [https://codeconfessions.substack.com/p/gpu-computing](What Every Developer Should Know About GPU Computing)
+- [Jira의 이슈 정렬 방식이 Integer 방식이 아니라고?!](https://techblog.lycorp.co.jp/ko/about-atlassian-jira-ranking-algorithm-lexorank)
 
 ## 컨퍼런스 
 - [JDK 21의 신기능 Virtual Thread 알아보기 (안정수 James)](https://www.youtube.com/watch?v=vQP6Rs-ywlQ)
