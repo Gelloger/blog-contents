@@ -44,6 +44,7 @@
 - [BULK 처리 Write에 집중해서 개선해보기](https://helloworld.kurly.com/blog/bulk-performance-tuning/)
 - [MYSQL 인덱스 튜닝](https://medium.com/zigbang/mysql-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%ED%8A%9C%EB%8B%9D-18e183e9246d)
 - [MySQL에서 B-Tree 인덱스를 통해 데이터를 읽어오는 방법 (인덱스 스캔)](https://hudi.blog/mysql-index-scan/)
+- [Query Optimization Technology for Correlated Subqueries](https://alibaba-cloud.medium.com/query-optimization-technology-for-correlated-subqueries-8d265a51f58e)
 
 ## Middleware (RabbitMQ, Kafka, etc..)
 
@@ -93,6 +94,8 @@
 - [UnitTest](https://martinfowler.com/bliki/UnitTest.html)
 - [https://codeconfessions.substack.com/p/gpu-computing](What Every Developer Should Know About GPU Computing)
 - [Jira의 이슈 정렬 방식이 Integer 방식이 아니라고?!](https://techblog.lycorp.co.jp/ko/about-atlassian-jira-ranking-algorithm-lexorank)
+- [Apache Performance Tuning on Linux](https://alibaba-cloud.medium.com/apache-performance-tuning-on-linux-93f5330f7808)
+- [Paxos보다 쉬운 Raft Consensus](https://medium.com/rate-labs/raft-consensus-%EC%9D%B4%ED%95%B4-%EA%B0%80%EB%8A%A5%ED%95%9C-%ED%95%A9%EC%9D%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EC%A0%95-f7ecb9f450ab)
 
 ## 컨퍼런스 
 - [JDK 21의 신기능 Virtual Thread 알아보기 (안정수 James)](https://www.youtube.com/watch?v=vQP6Rs-ywlQ)
