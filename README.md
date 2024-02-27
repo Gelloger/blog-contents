@@ -92,7 +92,7 @@
 - [하쿠나 입장 API 개선하기 - 괴물 API 리팩토링과 성능개선하기](https://hyperconnect.github.io/2022/03/14/develop-liveroom-entrance-on-hakuna.html)
 - [Mockists Are Dead. Long Live Classicists.](https://www.thoughtworks.com/insights/blog/mockists-are-dead-long-live-classicists)
 - [UnitTest](https://martinfowler.com/bliki/UnitTest.html)
-- [https://codeconfessions.substack.com/p/gpu-computing](What Every Developer Should Know About GPU Computing)
+- [What Every Developer Should Know About GPU Computing](https://codeconfessions.substack.com/p/gpu-computing)
 - [Jira의 이슈 정렬 방식이 Integer 방식이 아니라고?!](https://techblog.lycorp.co.jp/ko/about-atlassian-jira-ranking-algorithm-lexorank)
 - [Apache Performance Tuning on Linux](https://alibaba-cloud.medium.com/apache-performance-tuning-on-linux-93f5330f7808)
 - [Paxos보다 쉬운 Raft Consensus](https://medium.com/rate-labs/raft-consensus-%EC%9D%B4%ED%95%B4-%EA%B0%80%EB%8A%A5%ED%95%9C-%ED%95%A9%EC%9D%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EC%A0%95-f7ecb9f450ab)
