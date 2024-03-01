@@ -97,6 +97,11 @@
 - [Apache Performance Tuning on Linux](https://alibaba-cloud.medium.com/apache-performance-tuning-on-linux-93f5330f7808)
 - [Paxos보다 쉬운 Raft Consensus](https://medium.com/rate-labs/raft-consensus-%EC%9D%B4%ED%95%B4-%EA%B0%80%EB%8A%A5%ED%95%9C-%ED%95%A9%EC%9D%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EC%A0%95-f7ecb9f450ab)
 - [S3FIFO / SIEVE로 보는 최신 캐시 연구 동향](https://medium.com/rate-labs/%EC%96%B4%EB%96%A4-%EC%86%8C%EA%B0%80-%EC%9D%BC%EC%9D%84-%EB%8D%94-%EC%9E%98%ED%95%A9%EB%8B%88%EA%B9%8C-fifo%EA%B0%80-lru%EB%B3%B4%EB%8B%A4-%EB%82%AB%EC%8A%B5%EB%8B%88%EB%8B%A4%EC%9A%94-1a49b9060ce4)
+- [Evil tip: avoid "easy" things](https://yosefk.com/blog/evil-tip-avoid-easy-things.html)
+- [Things I Learnt The Hard Way (in 30 Years of Software Development)](https://blog.juliobiason.me/thoughts/things-i-learnt-the-hard-way/)
+- [Lessons Learned in Software Development](https://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/)
+- [Practical Advice for New Software Engineers](https://product.hubspot.com/blog/practical-advice-for-new-software-engineers)
+- [Signs that you're a good programmer](https://skatgame.net/mburo//courses/350/signs-that-you-re-a-good-programmer.html)
 
 ## 컨퍼런스 
 - [JDK 21의 신기능 Virtual Thread 알아보기 (안정수 James)](https://www.youtube.com/watch?v=vQP6Rs-ywlQ)
