@@ -103,6 +103,11 @@
 - [Practical Advice for New Software Engineers](https://product.hubspot.com/blog/practical-advice-for-new-software-engineers)
 - [Signs that you're a good programmer](https://skatgame.net/mburo//courses/350/signs-that-you-re-a-good-programmer.html)
 
+## PM
+- [K-팀장에서 진짜 팀장으로 거듭나기](https://techblog.gccompany.co.kr/k-%ED%8C%80%EC%9E%A5%EC%97%90%EC%84%9C-%EC%A7%84%EC%A7%9C-%ED%8C%80%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EA%B1%B0%EB%93%AD%EB%82%98%EA%B8%B0-98d6e726ae73)
+- [PM의 생산적인 일정관리 방법, Time Blocking](https://blog.moba.works/timeblocking/)
+
+
 ## 컨퍼런스 
 - [JDK 21의 신기능 Virtual Thread 알아보기 (안정수 James)](https://www.youtube.com/watch?v=vQP6Rs-ywlQ)
 - [코프링 프로젝트 투입 일주일 전: 주니어 개발자의 코틀린 도입 이야기 | 인프콘2023](https://www.youtube.com/watch?v=xuMoald9MPQ)
