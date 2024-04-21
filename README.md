@@ -22,6 +22,7 @@
 ## Kotlin
 - [코루틴(Coroutine)에 대하여](https://ebay-korea.tistory.com/82)
 - [Kotlin에서 리스트 추출하기 : subList, slice, take, drop](https://ebay-korea.tistory.com/96)
+- [runCatching을 이용한 kotlin에서 exception처리 방법.](https://uchun.dev/runCatching%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-kotlin%EC%97%90%EC%84%9C-exception%EC%B2%98%EB%A6%AC-%EB%B0%A9%EB%B2%95/)
 
 ## Spring Boot
 - [Log all requests and responses of REST API GET and POST endpoints](https://medium.com/javarevisited/log-all-requests-and-responses-of-rest-api-get-and-post-endpoints-b6d91c6e56b1)
