@@ -23,6 +23,7 @@
 - [코루틴(Coroutine)에 대하여](https://ebay-korea.tistory.com/82)
 - [Kotlin에서 리스트 추출하기 : subList, slice, take, drop](https://ebay-korea.tistory.com/96)
 - [runCatching을 이용한 kotlin에서 exception처리 방법.](https://uchun.dev/runCatching%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-kotlin%EC%97%90%EC%84%9C-exception%EC%B2%98%EB%A6%AC-%EB%B0%A9%EB%B2%95/)
+- [[Kotlin] DataClass와 Sealed Class 알아보기](https://devocean.sk.com/blog/techBoardDetail.do?ID=165658&boardType=techBlog&ref=codenary)
 
 ## Spring Boot
 - [Log all requests and responses of REST API GET and POST endpoints](https://medium.com/javarevisited/log-all-requests-and-responses-of-rest-api-get-and-post-endpoints-b6d91c6e56b1)
@@ -46,6 +47,7 @@
 - [MYSQL 인덱스 튜닝](https://medium.com/zigbang/mysql-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%ED%8A%9C%EB%8B%9D-18e183e9246d)
 - [MySQL에서 B-Tree 인덱스를 통해 데이터를 읽어오는 방법 (인덱스 스캔)](https://hudi.blog/mysql-index-scan/)
 - [Query Optimization Technology for Correlated Subqueries](https://alibaba-cloud.medium.com/query-optimization-technology-for-correlated-subqueries-8d265a51f58e)
+- [읽기 전용 설정으로 MySQL 이전하기](https://techblog.lycorp.co.jp/ko/migrate-mysql-with-read-only-mode)
 
 ## Middleware (RabbitMQ, Kafka, etc..)
 
@@ -104,6 +106,7 @@
 - [Practical Advice for New Software Engineers](https://product.hubspot.com/blog/practical-advice-for-new-software-engineers)
 - [Signs that you're a good programmer](https://skatgame.net/mburo//courses/350/signs-that-you-re-a-good-programmer.html)
 - [ATCS : 게임 서버로 유입되는 폭발적 API 트래픽 대응을 위한 큐 기반 Throttling 전략](https://www.intelligencelabs.tech/2a35b8f1-038a-4fb0-83af-3f81eca61162)
+
 
 ## PM
 - [K-팀장에서 진짜 팀장으로 거듭나기](https://techblog.gccompany.co.kr/k-%ED%8C%80%EC%9E%A5%EC%97%90%EC%84%9C-%EC%A7%84%EC%A7%9C-%ED%8C%80%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EA%B1%B0%EB%93%AD%EB%82%98%EA%B8%B0-98d6e726ae73)
