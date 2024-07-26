@@ -108,6 +108,9 @@
 - [ATCS : 게임 서버로 유입되는 폭발적 API 트래픽 대응을 위한 큐 기반 Throttling 전략](https://www.intelligencelabs.tech/2a35b8f1-038a-4fb0-83af-3f81eca61162)
 - [Hexagonal Architecture: Common pitfalls](https://medium.com/@albert.llousas/hexagonal-architecture-common-pitfalls-f155e12388a3)
 - [우리팀은 카프카를 어떻게 사용하고 있을까](https://techblog.woowahan.com/17386)
+- [오픈마켓 여행 플랫폼의 실전 API 연동 노하우](https://ebay-korea.tistory.com/115)
+- [조회 속도 개선하기 (ESM '문의하기' 기능 개편)](https://ebay-korea.tistory.com/109)
+- [어떻게 그 판단을 할 수 있었을까?](https://www.stdy.blog/debugging-and-critical-decision-method/)
 
 ## PM
 - [K-팀장에서 진짜 팀장으로 거듭나기](https://techblog.gccompany.co.kr/k-%ED%8C%80%EC%9E%A5%EC%97%90%EC%84%9C-%EC%A7%84%EC%A7%9C-%ED%8C%80%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EA%B1%B0%EB%93%AD%EB%82%98%EA%B8%B0-98d6e726ae73)
