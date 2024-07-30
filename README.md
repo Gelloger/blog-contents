@@ -111,6 +111,7 @@
 - [오픈마켓 여행 플랫폼의 실전 API 연동 노하우](https://ebay-korea.tistory.com/115)
 - [조회 속도 개선하기 (ESM '문의하기' 기능 개편)](https://ebay-korea.tistory.com/109)
 - [어떻게 그 판단을 할 수 있었을까?](https://www.stdy.blog/debugging-and-critical-decision-method/)
+- [디버깅 원칙](https://kciter.so/posts/principles-of-debugging/)
 
 ## PM
 - [K-팀장에서 진짜 팀장으로 거듭나기](https://techblog.gccompany.co.kr/k-%ED%8C%80%EC%9E%A5%EC%97%90%EC%84%9C-%EC%A7%84%EC%A7%9C-%ED%8C%80%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EA%B1%B0%EB%93%AD%EB%82%98%EA%B8%B0-98d6e726ae73)
