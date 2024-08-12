@@ -18,6 +18,8 @@
 - [인자가 많은 메서드는 왜 나쁠까?](https://toss.tech/article/engineering-note-4)
 - [JAVA8을 통해 알아보는 람다 표현식](https://devinn.dev/blog/detail/372)
 - [Java의 미래, Virtual Thread](https://techblog.woowahan.com/15398/)
+- [Java 21 Virtual Threads - Dude, Where’s My Lock?](https://netflixtechblog.com/java-21-virtual-threads-dude-wheres-my-lock-3052540e231d)
+- [Why are my Java virtual threads slower than the platform threads?](https://developers.ascendcorp.com/why-are-my-java-virtual-threads-slower-than-the-platform-threads-74612a1587f3)
 
 ## Kotlin
 - [코루틴(Coroutine)에 대하여](https://ebay-korea.tistory.com/82)
