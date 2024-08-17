@@ -20,7 +20,7 @@
 - [Java의 미래, Virtual Thread](https://techblog.woowahan.com/15398/)
 - [Java 21 Virtual Threads - Dude, Where’s My Lock?](https://netflixtechblog.com/java-21-virtual-threads-dude-wheres-my-lock-3052540e231d)
 - [Why are my Java virtual threads slower than the platform threads?](https://developers.ascendcorp.com/why-are-my-java-virtual-threads-slower-than-the-platform-threads-74612a1587f3)
-
+- [static의 오해와 진실(feat. k6, VisualVM)](https://velog.io/@jeong_hun_hui/static%EC%9D%98-%EC%98%A4%ED%95%B4%EC%99%80-%EC%A7%84%EC%8B%A4feat.-k6-VisualVM)
 ## Kotlin
 - [코루틴(Coroutine)에 대하여](https://ebay-korea.tistory.com/82)
 - [Kotlin에서 리스트 추출하기 : subList, slice, take, drop](https://ebay-korea.tistory.com/96)
@@ -37,6 +37,7 @@
 - [Virtual Threads in Spring Boot](https://blog.devgenius.io/virtual-threads-in-spring-boot-f720dcdf018c)
 - [실전! Spring Boot 3 마이그레이션](https://techblog.lycorp.co.jp/ko/how-to-migrate-to-spring-boot-3)
 - [Spring WebClient에서 새어나가는 메모리 잡기](https://hyperconnect.github.io/2022/10/07/troubleshoot-webclient-oom.html)
+- [Validations in Spring Boot](https://medium.com/@himani.prasad016/validations-in-spring-boot-e9948aa6286b)
   
 ## DB (RDB, NOSQL)
 - [게임 서버 시스템을 위한 HikariCP 옵션 및 권장 설정](https://netmarble.engineering/hikaricp-options-optimization-for-game-server/)
